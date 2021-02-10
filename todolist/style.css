@@ -1,0 +1,51 @@
+body{
+margin:0;
+padding:0;
+color:#000;
+background:#efefef;
+font:normal 0.9em/150% 'Arimo', "Trebuchet MS", arial, verdana, sans-serif;
+text-shadow: 0px 0px 1px transparent; 
+}
+
+#wrap{
+width:960px;
+background:#fff;
+margin:30px auto 30px auto;
+padding:0;
+border:1px solid #ccc;
+border-radius: 10px;
+}
+.İnputAlani{
+	width: 50%;
+	height: 30px;
+	padding: 0px 10px;
+	border-radius: 8px;
+	font-weight: bold;
+}
+.MaviButon{
+	height: 30px;
+	border: 3px solid #4876ff;
+	background: #3a5fcd;
+	padding: 5px 30px;
+	color: white;
+	border-radius: 7px;
+}
+
+.MaviButon {
+	height: 30px;
+	border: 3px solid #4876ff;
+	background: #3a5fcd;
+	padding: 5px 30px;
+	color: white;
+	border-radius: 7px;
+
+}
+.iconsmalldarkgray a:link, .iconsmalldarkgray a:visited, .iconsmalldarkgray a:active .iconsmalldarkgray a:hover{
+	font-family: "Open Sans", Arial, "Helvetica Neue", Helvatica, "sans-serif";
+	color: #646464;
+	line-height: 1.5;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	text-decoration: none;
